@@ -53,6 +53,3 @@ Bu proje, ESP32 tabanlı, web arayüzü desteğine sahip ve bünyesinde 5 farkl�
 5.  Tarayıcınıza `192.168.4.1` yazarak kontrol paneline erişin.
 
 ---
-
-## 📄 Lisans
-Bu proje [MIT Lisansı](LICENSE) ile korunmaktadır.

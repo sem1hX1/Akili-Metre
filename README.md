@@ -1,7 +1,7 @@
 # 🔬 Akıllı Metre (All-in-One Akıllı Ölçüm Cihazı)
 
 <div align="center">
-    <img src="img/4.jpeg" alt="ESP32-BlueJammer" width="50%" >
+    <img src="img/4.jpeg" alt="" width="50%" >
 </div>
 
 Bu proje, ESP32 tabanlı, web arayüzü desteğine sahip ve bünyesinde 5 farklı ölçüm modunu barındıran gelişmiş bir dijital ölçüm cihazıdır. Tek bir cihazla mesafe ölçebilir, renk analizi yapabilir, eğim (su terazisi) kontrol edebilir ve ortam verilerini takip edebilirsiniz.
@@ -19,16 +19,11 @@ Bu proje, ESP32 tabanlı, web arayüzü desteğine sahip ve bünyesinde 5 farkl�
 ---
 
 ## 📸 Proje Görselleri
-
-
-
-### Web Arayüzü Kullanımı
-
-
-### Sensör Yerleşimi
-
-
+<img src="img/7.jpeg" alt="" width="40%" >
+<img src="img/5.jpeg" alt="" width="40%" >
 ---
+# Web Arayüzü Kullanımı
+<img src="img/weparayüzü.png" alt="" width="50%" >
 
 ## 🛠️ Kullanılan Donanımlar
 
